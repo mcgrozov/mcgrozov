@@ -10,6 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://standardresume.co/r/XXKkgXgGuHBcY77K2RpJe
+  https://www.linkedin.com/in/artem-groza-8793a326b/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
