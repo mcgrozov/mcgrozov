@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem Groza</h1>
 <h3 align="center">A passionate Data Scientist from Russia</h3>
 
-- 🔭 I’m currently working on **NLP, NLU**
+- 🔭 I’m currently working on **DL, Time Series**
 
 - 🌱 I’m currently learning **Deep Learning: PyTorch, Keras**
 
